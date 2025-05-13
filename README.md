@@ -26,7 +26,5 @@ gibi temel yapıların nasıl kullanılacağını göstermek için ideal bir uyg
 Bu projeyle birlikte:
 
 - Java’da kullanıcı ile etkileşimli bir akış oluşturmayı öğreneceksiniz.
-
 - Koşul ve kontrol yapılarıyla karar ağacı kurmayı pekiştireceksiniz.
-
 - Mini bir alışveriş sistemi mantığını kavrayarak daha büyük projelere hazırlık yapmış olacaksınız.
